@@ -1,3 +1,4 @@
+#test BC PR Scan
 AWSTemplateFormatVersion: '2010-09-09'
 Description: AWS CloudFormation Template to deploy insecure infrastructure
 Parameters:
